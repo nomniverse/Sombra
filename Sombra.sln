@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sombra.CSharp", "Sombra.CSharp.csproj", "{A1B41BBB-2E9F-B7A9-974A-0F27740062F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sombra.CSharp.Editor", "Sombra.CSharp.Editor.csproj", "{5BAB87F4-3AA7-C017-D149-F2A4FF0B7206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1B41BBB-2E9F-B7A9-974A-0F27740062F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1B41BBB-2E9F-B7A9-974A-0F27740062F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1B41BBB-2E9F-B7A9-974A-0F27740062F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1B41BBB-2E9F-B7A9-974A-0F27740062F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BAB87F4-3AA7-C017-D149-F2A4FF0B7206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BAB87F4-3AA7-C017-D149-F2A4FF0B7206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BAB87F4-3AA7-C017-D149-F2A4FF0B7206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BAB87F4-3AA7-C017-D149-F2A4FF0B7206}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
